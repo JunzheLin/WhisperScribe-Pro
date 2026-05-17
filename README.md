@@ -3,6 +3,7 @@
 [English](#english) | [中文](#中文) | [日本語](#日本語)
 
 ---
+<img width="1888" height="1061" alt="image" src="https://github.com/user-attachments/assets/381f925e-e022-43bb-89df-1f9c1fcfd562" />
 
 <a name="english"></a>
 ## English
