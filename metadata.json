@@ -1,0 +1,6 @@
+{
+  "name": "实时字幕 Windows 桌面应用",
+  "description": "基于 faster-whisper 和 PyQt6 的实时音频识别翻译透明字幕工具",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

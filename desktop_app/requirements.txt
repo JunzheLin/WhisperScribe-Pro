@@ -1,0 +1,7 @@
+PyQt6>=6.7.0
+faster-whisper>=1.0.2
+PyAudioWPatch>=0.2.12.7; sys_platform == 'win32'
+numpy>=1.26.4
+argostranslate>=1.9.1
+scipy>=1.13.0
+pyinstaller>=6.6.0
